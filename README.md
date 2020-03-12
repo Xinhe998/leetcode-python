@@ -6,3 +6,4 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [Python](09_palindromeNumber.py) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)  | [Python](14_longestCommonPrefix.py) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/longest-common-prefix/)  | [Python](20_validParentheses.py) | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [Python](21_mergeTwoLists.py) | Easy |
