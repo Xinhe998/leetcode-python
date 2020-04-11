@@ -10,3 +10,4 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](26_removeDuplicates.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](35_searchInsert.py) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [Python](53_maxSubArray.py) | Easy |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/)  | [Python](67_addBinary.py) | Easy |
