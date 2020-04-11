@@ -9,3 +9,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [Python](21_mergeTwoLists.py) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](26_removeDuplicates.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](35_searchInsert.py) | Easy |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [Python](53_maxSubArray.py) | Easy |
