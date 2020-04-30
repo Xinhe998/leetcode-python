@@ -15,6 +15,7 @@
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [Python](83_deleteDuplicates.py) | Easy |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/)  | [Python](89_grayCode.py) | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)  | [Python](92_reverseBetween.py) | Medium |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [Python](94_inorderTraversal.py) | Medium |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  | [Python](98_isValidBST.py) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](100_isSameTree.py) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)  | [Python](101_isSymmetric.py) | Easy |
