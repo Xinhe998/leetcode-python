@@ -19,4 +19,5 @@
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  | [Python](98_isValidBST.py) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](100_isSameTree.py) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)  | [Python](101_isSymmetric.py) | Easy |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  | [Python](124_maxPathSum.py) | Hard |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/)  | [Python](136_singleNumber.py) | Easy |
